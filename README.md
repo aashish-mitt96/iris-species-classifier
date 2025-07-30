@@ -22,8 +22,7 @@ Built with **Scikit-learn** and deployed using **Streamlit**.
 
 ## 🚀 Live Demo
 
-👉 [Click here to try the app](https://your-username-iris-species-classifier.streamlit.app/)  
-_(Replace with your actual Streamlit Cloud URL after deployment)_
+👉 [Click here to try the app](https://iris-species-classifiers.streamlit.app/)  
 
 ---
 
@@ -46,11 +45,3 @@ _(Replace with your actual Streamlit Cloud URL after deployment)_
 - Model trained and saved using `joblib`
 
 ---
-
-## 🛠️ How to Run Locally
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/your-username/iris-species-classifier.git
-cd iris-species-classifier
