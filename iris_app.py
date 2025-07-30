@@ -4,6 +4,8 @@ import streamlit as st
 
 model = dump.load('iris_model.pkl')
 
+st.set_page_config(page_title="Iris Species Classifier", page_icon="🌸", layout="centered")
+
 st.title("🌸 Iris Species Classifier")
 st.write("Enter the flower measurements to predict the Iris species.")
 
